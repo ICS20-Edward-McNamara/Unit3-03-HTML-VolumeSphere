@@ -1,0 +1,22 @@
+body {
+	background-color: #3bedc9 ;
+}
+
+h3 {
+	background-color: #204469;
+	color: #3caf73;
+	padding: 40px;
+	text-align: center;
+}
+
+p {
+	color: #b25ff7;
+}
+
+img {
+  padding: 40px;
+}
+
+div {
+  text-align: center;
+}
